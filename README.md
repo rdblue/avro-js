@@ -16,10 +16,17 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
+[![Build Status](https://travis-ci.org/rdblue/avro-ruby.svg?branch=master)](https://travis-ci.org/rdblue/avro-ruby)
 
-# Avro-js
+Apache Avro™ is a data serialization system. This repository is the Pure JavaScript implementation of the [Avro specification](https://avro.apache.org/docs/current/spec.html).
 
-Pure JavaScript implementation of the [Avro specification](https://avro.apache.org/docs/current/spec.html).
+Learn more about Avro, please visit our website at:
+
+  http://avro.apache.org/
+
+To contribute to Avro, please read:
+
+  https://cwiki.apache.org/confluence/display/AVRO/How+To+Contribute
 
 
 ## Features
